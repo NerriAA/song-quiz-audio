@@ -1,42 +1,52 @@
 [
   {
     "url": "https://www.youtube.com/watch?v=XqZsoesa55w",
-    "songName": "song1"
+    "songName": "song1",
+    "description": "Baby Shark"
   },
   {
     "url": "https://www.youtube.com/watch?v=e_04ZrNroTo",
-    "songName": "song2"
+    "songName": "song2",
+    "description": "Wheels on the Bus"
   },
   {
     "url": "https://www.youtube.com/watch?v=IhJVli-hQo4",
-    "songName": "song3"
+    "songName": "song3",
+    "description": "Eli the cat"
   },
   {
     "url": "https://www.youtube.com/watch?v=JJzZNPy1yZU",
-    "songName": "song4"
+    "songName": "song4",
+    "description": "No Secret"
   },
   {
     "url": "https://www.youtube.com/watch?v=HA9ISkl9bzA",
-    "songName": "song5"
+    "songName": "song5",
+    "description": "Nice Butterfly"
   },
   {
     "url": "https://www.youtube.com/watch?v=qSsMW5p6DW8",
-    "songName": "song6"
+    "songName": "song6",
+    "description": "Meni Mamtera"
   },
   {
     "url": "https://www.youtube.com/watch?v=u7GkPe1JLOw",
-    "songName": "song7"
+    "songName": "song7",
+    "description": "Old Macdonald Had A Farm"
   },
   {
     "url": "https://www.youtube.com/watch?v=rGwnzzj62rs",
-    "songName": "song8"
+    "songName": "song8",
+    "description": "Dani Hero"
   },
   {
     "url": "https://www.youtube.com/watch?v=uQU2TWDhASM",
-    "songName": "song9"
+    "songName": "song9",
+    "description": "Il Pulcino Pio"
   },
   {
     "url": "https://www.youtube.com/watch?v=k85mRPqvMbE",
-    "songName": "song10"
+    "songName": "song10",
+    "description": "Crazy Frog - Axel F"
   }
 ]
